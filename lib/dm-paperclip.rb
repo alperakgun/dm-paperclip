@@ -30,7 +30,7 @@ require 'digest'
 require 'tempfile'
 
 require 'dm-core'
-require 'extlib'
+#require 'extlib'
 
 require 'dm-paperclip/ext/compatibility'
 require 'dm-paperclip/ext/class'
